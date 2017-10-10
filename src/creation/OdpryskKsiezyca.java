@@ -11,7 +11,7 @@ package creation;
  */
 public class OdpryskKsiezyca {
     
-    Dwie piramidy o tej samej podstawie, dolna niska, górna wysoka
-            Rozkminić orientację schodów
+//    Dwie piramidy o tej samej podstawie, dolna niska, górna wysoka
+//            Rozkminić orientację schodów
     
 }
